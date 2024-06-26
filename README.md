@@ -19,10 +19,7 @@ This project provides a simple and easy-to-use Integrated Development Environmen
 5. View the output of your code in the designated output area below the editor.
 
 ## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
 *Figure 1: Code Editor Interface, Output Display**
-
 <img width="1339" alt="Screenshot 2024-06-26 at 11 17 50" src="https://github.com/chinnanj666/javaScript-Complier1/assets/114425702/6c08e7cb-20ec-4aa7-af86-af7603f16363">
 
 ## Getting Started
