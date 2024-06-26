@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="res/styles/main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="res/lib/codemirror.js"></script>
+    <link rel="stylesheet" href="res/lib/codemirror.css">
+    <link rel="stylesheet" href="res/theme/dracula.css">
+    <script src="res/mode/javascript/javascript.js"></script>
+    <script src="res/vex/js/vex.combined.min.js"></script>
+    <script>vex.defaultOptions.className = 'vex-theme-top'</script>
+    <link rel="stylesheet" href="res/vex/css/vex.css" />
+    <link rel="stylesheet" href="res/vex/css/vex-theme-top.css" />
+    <title>JS Playground - Online Javascript IDE (Open Source)</title>
+    <meta name="keywords" content="Javascript Online IDE where you can type out Javascript code and see the output right next to the code. Browser based, no backend is required. Developed with love ❤ by Vikas Kukreti." />
+	<meta name="description" content="Javascript, IDE, JS, Javascript IDE, Javascript Playground, Vikas, Vikas Kukreti" />
+	
+</head>
+<body>
+    
+    <div class="playground">
+        <div class="file-pane">
+            <div class="new" onclick="createFile()">
+                + New File
+            </div>
+            <ul class="files">
+
+            </ul>
+        </div>
+        <div class="code-editor" id="editor"></div>
+        <div class="seperator" id="resizer"></div>
+        <div class="code-output" id="output">Output</div>
+    </div>
+
+    <script src="res/scripts/main.js"></script>
+
+</body>
+</html>
