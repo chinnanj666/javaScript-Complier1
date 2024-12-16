@@ -5,7 +5,7 @@ This project provides a simple and easy-to-use Integrated Development Environmen
 ## Features
 
 * **Code Editor**: Write and edit JavaScript code with syntax highlighting.
-* **Save Code**: Easily save your code with `Ctrl + S`. 
+* **Save Code**: Easily save your code with `Ctrl + S`.    
 * **Run Code**: Instantly run your JavaScript code with `Ctrl + Enter` or by clicking the output box.
 * **Output Display**: View the results of your code execution directly within the IDE.
 * **Responsive Design**: Works on both desktop and mobile devices for coding on the go.
